@@ -1,5 +1,5 @@
 
-<h1>Curso CSS Flex e Grid</h1>
+<h1>Curso CSS Flex</h1>
 
 <p  align="center">
 
@@ -27,9 +27,8 @@ Curso da Alura para criação de uma página da Web, para uma empresa fictícia,
 
 ## Aprendizado
 
-:heavy_check_mark: Como desenvolver um projeto do figma
 
-:heavy_check_mark: Flexbox e seus alinhamentos
+:heavy_check_mark: Flexbox e suas propriedades
 
 :heavy_check_mark: Display Grid
 
