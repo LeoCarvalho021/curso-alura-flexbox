@@ -96,6 +96,8 @@
     }
     .rodapePrincipal-contatoForm{
         width: 100%;
+        display: flex;
+        justify-content: center;
     
     }
     .rodapePrincipal-contatoForm-fieldset{
