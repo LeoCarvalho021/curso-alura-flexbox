@@ -98,8 +98,8 @@ body {
 
 .rodapePrincipal .subtitulo {
 	color: #FFF;
+	margin-left: 1rem;
 }
-
 .rodapePrincipal-navMap-link {
 	text-decoration: none;
 	color: #FFF;
@@ -208,11 +208,16 @@ body {
 .rodapePrincipal-contatoForm-legend {
 	margin-bottom: 10px;
 }
+.rodapePrincipal-contatoForm-submit{
+	height: 2.5rem;
+}
 
 @media(min-width: 769px) {
 
 	.container {
 		width: 85%;	
+		display: flex;
+		align-items: center;
 	}
 
 	.subtitulo {
@@ -232,20 +237,17 @@ body {
 	.cabecalhoPrincipal-titulo {
 		margin: 0;
 	}
-
-	.cabecalhoPrincipal-nav {
-		width: auto;
-	}
-
 	.cabecalhoPrincipal-nav-link {
 		width: auto;
 		margin: 0 0 0 10px;
 	}
 
-	.rodapePrincipal-contatoForm {
-		margin-top: 0;
+	.rodapePrincipal-contatoForm{
+		margin: 0;
 		text-align: left;
+
 	}
+	
 
 	.conteudoPrincipal-cursos-link:nth-child(3n) {
 		margin-right: 0;
