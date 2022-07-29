@@ -216,8 +216,6 @@ body {
 
 	.container {
 		width: 85%;	
-		display: flex;
-		align-items: center;
 	}
 
 	.subtitulo {
@@ -248,7 +246,6 @@ body {
 
 	}
 	
-
 	.conteudoPrincipal-cursos-link:nth-child(3n) {
 		margin-right: 0;
 	}
